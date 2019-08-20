@@ -13,6 +13,7 @@ use App\Http\Controllers\Controller;
 use App\Services\UserCheckingService;
 use App\Exceptions\UserLoginErrorException;
 
+
 class LoginController extends Controller
 {
     /**
@@ -139,4 +140,5 @@ class LoginController extends Controller
             AuthenticatedJob::dispatch($user)->onQueue('jobs');
         }
     }
+
 }

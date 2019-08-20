@@ -6,7 +6,6 @@ use App\Jobs\Auth\RegisteredJob;
 use App\Services\RequestResponseService;
 use App\Http\Requests\AuthRegisterRequest;
 use App\Models\User;
-use App\Services\SecureShellKeyService;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Str;
