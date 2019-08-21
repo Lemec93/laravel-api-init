@@ -1,0 +1,24 @@
+{
+    "Your password has been reset, please log in with your new username and password.": "Votre mot de passe a été réinitialisé, veuillez vous connecter avec vos nouveaux identifiants.",
+    "A reset link has been sent to you, please check your email.": "Un lien de réinitialisation vous a été envoyé, verifier votre messagerie s.v.p",
+    "There seems to be an error when checking your information.": "Il semble y avoir une erreur lors de la vérification de vos informations.",
+    "You have been successfully disconnected.": "Vous avez été déconnecté avec succès.",
+    "Your account has been successfully created.": "Votre compte a été créé avec succès.",
+
+    "Please login to continue this action.": "Veuillez vous connecter pour poursuivre cette action.",
+    "Error during authentication, please check your information.": "Erreur lors de l'authentification, veuillez verifier vos informations s.v.p",
+    "Error when activating your account.": "Erreur lors de l'activation de votre compte.",
+    "Your account has been activated.": "Votre compte a été activé.",
+
+    "You do not have the necessary rights to continue this action.": "Vous n'avez pas les droits nécessaires pour poursuivre cette action.",
+    "Error when validating your token, your data has been corrupted.": "Erreur lors de la validation de votre token, vos données ont été corrompus.",
+
+    "Oops this method does't exist.": "Oups cette méthode n'existe pas.",
+    "Your account has been deactivated": "Votre compte a été désactivé",
+    "You have been banned from our platform": "Vous avez été banni de notre plateforme",
+    "Your account has not yet been verified": "Votre compte n'a pas encore été vérifié",
+    "The requested language is not supported.": "La langue demandée n'est pas prise en charge.",
+
+    "The given data was invalid.": "Les données fournies ne sont pas valides.",
+    "Personal access client not found. Please create one.": "Le client d'accès personnel n'a pas été trouvé. Veuillez en créer un."
+}
